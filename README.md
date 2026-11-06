@@ -58,6 +58,14 @@ Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay.
       <p><a href="https://nahuelbenitezs.github.io/Ritmo/"><b>Abrir</b></a> · <a href="https://github.com/nahuelbenitezs/Ritmo">Código</a></p>
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://nahuelbenitezs.github.io/Proyecto-Obligatorio/"><img src="assets/emercado.gif" alt="Demo de eMercado" width="100%" /></a>
+      <h3>🛒 eMercado</h3>
+      <p>E-commerce de demostración con estética de feria, migrado a Angular y rediseñado desde un obligatorio de Jóvenes a Programar.</p>
+      <p><a href="https://nahuelbenitezs.github.io/Proyecto-Obligatorio/"><b>Abrir</b></a> · <a href="https://github.com/nahuelbenitezs/Proyecto-Obligatorio">Código</a></p>
+    </td>
+  </tr>
 </table>
 
 ## Con qué trabajo
