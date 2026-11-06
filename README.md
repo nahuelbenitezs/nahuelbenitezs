@@ -48,7 +48,7 @@ Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay.
     <td width="33%" valign="top">
       <a href="https://nahuelbenitezs.github.io/valopedia/"><img src="assets/valopedia.gif" alt="Demo de Valopedia" width="100%" /></a>
       <h3>🎯 Valopedia</h3>
-      <p>Wiki de Valorant con agentes, habilidades y mapas.</p>
+      <p>Wiki de VALORANT en español e inglés, con rueda de agentes, habilidades, mapas y armas que se actualiza sola en cada parche.</p>
       <p><a href="https://nahuelbenitezs.github.io/valopedia/"><b>Explorar</b></a> · <a href="https://github.com/nahuelbenitezs/valopedia">Código</a></p>
     </td>
     <td width="33%" valign="top">
