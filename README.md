@@ -8,6 +8,8 @@
   <a href="https://nahuelbenitezs.github.io/canasta-uy/"><img src="https://img.shields.io/badge/Probar_Canasta_UY-FFD21F?style=for-the-badge&logoColor=14140F" alt="Probar Canasta UY" /></a>
 </p>
 
+<p align="center"><a href="#proyecto-principal">Proyectos</a> · <a href="#con-qué-trabajo">Tecnologías</a> · <a href="#en-vivo">En vivo</a> · <a href="#contacto">Contacto</a></p>
+
 ## Hola, soy Nahuel
 
 Hago productos web de punta a punta: desde limpiar millones de filas de datos hasta la pantalla donde cobran sentido. Me gustan los proyectos que se pueden tocar, como un mapa 3D, un juego en el navegador o una app que uso todos los días.
@@ -39,36 +41,40 @@ Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://nahuelbenitezs.github.io/Anime-Clash-3D/"><img src="assets/anime-clash.gif" alt="Demo de Anime Clash 3D" width="100%" /></a>
       <h3>⚡ Anime Clash 3D</h3>
       <p>Juego de peleas en 3D para el navegador, pensado para jugar desde el celular.</p>
       <p><a href="https://nahuelbenitezs.github.io/Anime-Clash-3D/"><b>Jugar</b></a> · <a href="https://github.com/nahuelbenitezs/Anime-Clash-3D">Código</a></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <a href="https://nahuelbenitezs.github.io/Proyecto-Obligatorio/"><img src="assets/emercado.gif" alt="Demo de eMercado" width="100%" /></a>
+      <h3>🛍️ eMercado</h3>
+      <p>E-commerce de demostración con WebGL y scroll coreografiado, migrado a Angular desde un obligatorio de Jóvenes a Programar.</p>
+      <p><a href="https://nahuelbenitezs.github.io/Proyecto-Obligatorio/"><b>Abrir</b></a> · <a href="https://github.com/nahuelbenitezs/Proyecto-Obligatorio">Código</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://nahuelbenitezs.github.io/valopedia/"><img src="assets/valopedia.gif" alt="Demo de Valopedia" width="100%" /></a>
       <h3>🎯 Valopedia</h3>
       <p>Wiki de VALORANT en español e inglés, con rueda de agentes, habilidades, mapas y armas que se actualiza sola en cada parche.</p>
       <p><a href="https://nahuelbenitezs.github.io/valopedia/"><b>Explorar</b></a> · <a href="https://github.com/nahuelbenitezs/valopedia">Código</a></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://nahuelbenitezs.github.io/Ritmo/"><img src="assets/ritmo.gif" alt="Demo de Ritmo" width="100%" /></a>
       <h3>🌿 Ritmo</h3>
       <p>App instalable de bienestar con entrenamiento, alimentación y hábitos, sin cuenta ni suscripción.</p>
       <p><a href="https://nahuelbenitezs.github.io/Ritmo/"><b>Abrir</b></a> · <a href="https://github.com/nahuelbenitezs/Ritmo">Código</a></p>
     </td>
   </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://nahuelbenitezs.github.io/Proyecto-Obligatorio/"><img src="assets/emercado.gif" alt="Demo de eMercado" width="100%" /></a>
-      <h3>🛒 eMercado</h3>
-      <p>E-commerce de demostración con WebGL y scroll coreografiado, migrado a Angular desde un obligatorio de Jóvenes a Programar.</p>
-      <p><a href="https://nahuelbenitezs.github.io/Proyecto-Obligatorio/"><b>Abrir</b></a> · <a href="https://github.com/nahuelbenitezs/Proyecto-Obligatorio">Código</a></p>
-    </td>
-  </tr>
 </table>
 
 ## Con qué trabajo
+
+<details open>
+<summary>Mi stack por área</summary>
+<br />
 
 <table>
   <tr>
@@ -85,7 +91,15 @@ Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay.
   </tr>
 </table>
 
-## Mi actividad
+</details>
+
+## En vivo
+
+Esta sección se regenera todos los días con datos públicos de GitHub.
+
+<img src="https://raw.githubusercontent.com/nahuelbenitezs/nahuelbenitezs/output/ficha.svg" alt="Ficha con mis datos públicos de GitHub y el último proyecto actualizado" width="100%" />
+
+<br />
 
 <img src="https://raw.githubusercontent.com/nahuelbenitezs/nahuelbenitezs/output/actividad.svg" alt="Gráfico animado de mis contribuciones públicas del último año" width="100%" />
 
