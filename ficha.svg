@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 194" role="img">
+<title>Datos públicos de Nahuel Benítez en GitHub</title>
+<style>
+text{font:16px ui-monospace,SFMono-Regular,Consolas,Menlo,monospace}
+.p{fill:#120f2e}.b{fill:#ffb52e}.t{fill:#120f2e;font-weight:700}.k{fill:#b9b4d6}.v{fill:#ffb52e;font-weight:600}
+.f{animation:a .5s cubic-bezier(.16,1,.3,1) both}
+@keyframes a{from{opacity:0;transform:translateX(-10px)}}
+@media (prefers-reduced-motion:reduce){.f{animation:none}}
+</style>
+<rect class="p" width="860" height="194" rx="14"/>
+<path class="b" d="M14 0h832a14 14 0 0 1 14 14v26H0V14A14 14 0 0 1 14 0z"/>
+<text x="28" y="26" class="t">nahuel@github ~ $ ficha --en-vivo</text>
+<g class="f" style="animation-delay:0.25s"><text x="28" y="84" class="k">en GitHub desde</text><text x="320" y="84" class="v">2022</text></g><g class="f" style="animation-delay:0.47s"><text x="28" y="114" class="k">repos públicos</text><text x="320" y="114" class="v">21</text></g><g class="f" style="animation-delay:0.69s"><text x="28" y="144" class="k">contribuciones públicas</text><text x="320" y="144" class="v">145 en el último año</text></g><g class="f" style="animation-delay:0.91s"><text x="28" y="174" class="k">último proyecto tocado</text><text x="320" y="174" class="v">Turno Noche, hoy</text></g>
+</svg>
