@@ -12,7 +12,7 @@
 
 ## Hola, soy Nahuel
 
-Hago productos web de punta a punta: desde limpiar millones de filas de datos hasta la pantalla donde cobran sentido. Me gustan los proyectos que se pueden tocar, como un mapa 3D, un juego en el navegador o una app que uso todos los días.
+Hago productos web de punta a punta: desde limpiar millones de filas de datos hasta la pantalla donde cobran sentido. Me gustan los proyectos que se pueden tocar, como un mapa 3D, un juego cooperativo en el navegador o una tienda llena de movimiento.
 
 Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay.
 
@@ -25,11 +25,11 @@ Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay.
     </td>
     <td width="42%" valign="top">
       <h3>🛒 Canasta UY</h3>
-      <p><b>¿Dónde sale más barato?</b> Un mapa 3D de Uruguay donde cada columna es un supermercado real. Compará cadenas, seguí la historia de cada precio y armá tu canasta.</p>
+      <p><b>¿Dónde sale más barato?</b> Un mapa 3D de Uruguay donde cada columna es un supermercado real. Bajá por la historia de los precios, compará cadenas y armá tu canasta con datos abiertos.</p>
       <ul>
         <li><b>20.223.608</b> precios procesados</li>
         <li><b>751</b> locales en todo el país</li>
-        <li><b>110</b> tests automatizados</li>
+        <li><b>292</b> productos para comparar</li>
       </ul>
       <p><a href="https://nahuelbenitezs.github.io/canasta-uy/"><b>Abrir la web</b></a> · <a href="https://github.com/nahuelbenitezs/canasta-uy">Ver el código</a></p>
       <img src="https://skillicons.dev/icons?i=angular,ts,threejs,python,fastapi&theme=dark" alt="Angular, TypeScript, Three.js, Python y FastAPI" height="36" />
@@ -44,13 +44,13 @@ Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay.
     <td width="50%" valign="top">
       <a href="https://nahuelbenitezs.github.io/Anime-Clash-3D/"><img src="assets/anime-clash.gif" alt="Demo de Anime Clash 3D" width="100%" /></a>
       <h3>⚡ Anime Clash 3D</h3>
-      <p>Juego de peleas en 3D para el navegador, pensado para jugar desde el celular.</p>
+      <p>Peleas en 3D en el navegador, con cuatro luchadores, tres dificultades y salas online para dos. También se juega en el celular con controles táctiles.</p>
       <p><a href="https://nahuelbenitezs.github.io/Anime-Clash-3D/"><b>Jugar</b></a> · <a href="https://github.com/nahuelbenitezs/Anime-Clash-3D">Código</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://nahuelbenitezs.github.io/Proyecto-Obligatorio/"><img src="assets/emercado.gif" alt="Demo de eMercado" width="100%" /></a>
       <h3>🛍️ eMercado</h3>
-      <p>E-commerce de demostración con WebGL y scroll coreografiado, migrado a Angular desde un obligatorio de Jóvenes a Programar.</p>
+      <p>E-commerce de demostración con estética de feria uruguaya, fondo WebGL y scroll coreografiado, hecho con Angular y Motion.</p>
       <p><a href="https://nahuelbenitezs.github.io/Proyecto-Obligatorio/"><b>Abrir</b></a> · <a href="https://github.com/nahuelbenitezs/Proyecto-Obligatorio">Código</a></p>
     </td>
   </tr>
@@ -58,14 +58,14 @@ Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay.
     <td width="50%" valign="top">
       <a href="https://nahuelbenitezs.github.io/valopedia/"><img src="assets/valopedia.gif" alt="Demo de Valopedia" width="100%" /></a>
       <h3>🎯 Valopedia</h3>
-      <p>Wiki de VALORANT en español e inglés, con rueda de agentes, habilidades, mapas y armas que se actualiza sola en cada parche.</p>
+      <p>Wiki de VALORANT en español e inglés, con rueda de agentes, habilidades, mapas y armas. Se actualiza sola después de cada parche.</p>
       <p><a href="https://nahuelbenitezs.github.io/valopedia/"><b>Explorar</b></a> · <a href="https://github.com/nahuelbenitezs/valopedia">Código</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://nahuelbenitezs.github.io/Ritmo/"><img src="assets/ritmo.gif" alt="Demo de Ritmo" width="100%" /></a>
-      <h3>🌿 Ritmo</h3>
-      <p>App instalable de bienestar con entrenamiento, alimentación y hábitos, sin cuenta ni suscripción.</p>
-      <p><a href="https://nahuelbenitezs.github.io/Ritmo/"><b>Abrir</b></a> · <a href="https://github.com/nahuelbenitezs/Ritmo">Código</a></p>
+      <a href="https://nahuelbenitezs.github.io/turno-noche/"><img src="assets/turno-noche.gif" alt="Demo de Turno Noche" width="100%" /></a>
+      <h3>🌙 Turno Noche</h3>
+      <p>Beat 'em up 2D cooperativo para hasta 4 personas, en la misma pantalla u online. Cinco niveles y cinco jefes para recuperar el amanecer que se robaron.</p>
+      <p><a href="https://nahuelbenitezs.github.io/turno-noche/"><b>Jugar</b></a> · <a href="https://github.com/nahuelbenitezs/turno-noche">Código</a></p>
     </td>
   </tr>
 </table>

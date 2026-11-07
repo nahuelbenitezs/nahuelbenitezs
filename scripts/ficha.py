@@ -8,8 +8,8 @@ from datetime import date
 from html import escape
 from pathlib import Path
 
-DESTACADOS = ["canasta-uy", "Anime-Clash-3D", "valopedia", "Ritmo", "Proyecto-Obligatorio"]
-NOMBRES = {"Proyecto-Obligatorio": "eMercado", "canasta-uy": "Canasta UY", "Anime-Clash-3D": "Anime Clash 3D"}
+DESTACADOS = ["canasta-uy", "Anime-Clash-3D", "valopedia", "turno-noche", "Proyecto-Obligatorio"]
+NOMBRES = {"Proyecto-Obligatorio": "eMercado", "canasta-uy": "Canasta UY", "turno-noche": "Turno Noche", "Anime-Clash-3D": "Anime Clash 3D"}
 CONSULTA = """
 query ($usuario: String!) {
   user(login: $usuario) {
