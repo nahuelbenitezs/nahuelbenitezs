@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://nahuelbenitezs.github.io/"><img src="https://img.shields.io/badge/Portafolio-14140F?style=for-the-badge&logo=githubpages&logoColor=FFD21F" alt="Portafolio" /></a>
-  <a href="https://www.linkedin.com/in/nahuel-ben%C3%ADtez-990385203/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/nahuel-ben%C3%ADtezs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://nahuelbenitezs.github.io/canasta-uy/"><img src="https://img.shields.io/badge/Probar_Canasta_UY-FFD21F?style=for-the-badge&logoColor=14140F" alt="Probar Canasta UY" /></a>
 </p>
 
@@ -105,4 +105,4 @@ Esta sección se regenera todos los días con datos públicos de GitHub.
 
 ## Contacto
 
-Escribime por [LinkedIn](https://www.linkedin.com/in/nahuel-ben%C3%ADtez-990385203/) o mirá más en mi [portafolio](https://nahuelbenitezs.github.io/).
+Escribime por [LinkedIn](https://www.linkedin.com/in/nahuel-ben%C3%ADtezs/) o mirá más en mi [portafolio](https://nahuelbenitezs.github.io/).
