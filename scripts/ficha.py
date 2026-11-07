@@ -68,10 +68,9 @@ def dibujar(lineas: list[tuple[str, str]]) -> str:
 <title>Datos públicos de Nahuel Benítez en GitHub</title>
 <style>
 text{{font:16px ui-monospace,SFMono-Regular,Consolas,Menlo,monospace}}
-.p{{fill:#fbfaf4}}.b{{fill:#ffd21f}}.t{{fill:#14140f;font-weight:700}}.k{{fill:#4d4c42}}.v{{fill:#14140f;font-weight:600}}
+.p{{fill:#120f2e}}.b{{fill:#ffb52e}}.t{{fill:#120f2e;font-weight:700}}.k{{fill:#b9b4d6}}.v{{fill:#ffb52e;font-weight:600}}
 .f{{animation:a .5s cubic-bezier(.16,1,.3,1) both}}
 @keyframes a{{from{{opacity:0;transform:translateX(-10px)}}}}
-@media (prefers-color-scheme:dark){{.p{{fill:#161b22}}.k{{fill:#9da5ae}}.v{{fill:#ffd21f}}}}
 @media (prefers-reduced-motion:reduce){{.f{{animation:none}}}}
 </style>
 <rect class="p" width="860" height="{alto}" rx="14"/>

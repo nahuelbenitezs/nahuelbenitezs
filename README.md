@@ -1,80 +1,72 @@
-<a href="https://nahuelbenitezs.github.io/canasta-uy/">
-  <img src="assets/hero.svg" alt="Nahuel Benítez, desarrollo web con datos reales. Mapa de Uruguay con una columna por supermercado." width="100%" />
-</a>
+<a href="https://nahuelbenitezs.github.io/turno-noche/"><img src="assets/hero.svg" alt="Nahuel Benítez. Juegos, mapas 3D y apps web." width="100%" /></a>
 
 <p align="center">
-  <a href="https://nahuelbenitezs.github.io/"><img src="https://img.shields.io/badge/Portafolio-14140F?style=for-the-badge&logo=githubpages&logoColor=FFD21F" alt="Portafolio" /></a>
+  <a href="https://nahuelbenitezs.github.io/turno-noche/"><img src="https://img.shields.io/badge/Jugar_Turno_Noche-FFB52E?style=for-the-badge&labelColor=120F2E&logoColor=120F2E" alt="Jugar Turno Noche" /></a>
+  <a href="https://nahuelbenitezs.github.io/"><img src="https://img.shields.io/badge/Portafolio-120F2E?style=for-the-badge&logo=githubpages&logoColor=FFB52E" alt="Portafolio" /></a>
   <a href="https://www.linkedin.com/in/nahuel-ben%C3%ADtezs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://nahuelbenitezs.github.io/canasta-uy/"><img src="https://img.shields.io/badge/Probar_Canasta_UY-FFD21F?style=for-the-badge&logoColor=14140F" alt="Probar Canasta UY" /></a>
 </p>
 
-<p align="center"><a href="#proyecto-principal">Proyectos</a> · <a href="#con-qué-trabajo">Tecnologías</a> · <a href="#en-vivo">En vivo</a> · <a href="#contacto">Contacto</a></p>
+<p align="center"><a href="#juego">Juego</a> · <a href="#proyectos">Proyectos</a> · <a href="#stack">Stack</a> · <a href="#vivo">En vivo</a></p>
 
-## Hola, soy Nahuel
+Hago cosas para la web que dan ganas de tocar: un juego para romperla con amigos, un mapa 3D con los precios de todo Uruguay, una wiki que se actualiza sola. Me importa tanto el dato que hay atrás como lo que se siente al apretar un botón.
 
-Hago productos web de punta a punta: desde limpiar millones de filas de datos hasta la pantalla donde cobran sentido. Me gustan los proyectos que se pueden tocar, como un mapa 3D, un juego cooperativo en el navegador o una tienda llena de movimiento.
+Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay, en Montevideo.
 
-Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay.
-
-## Proyecto principal
+<a name="juego"></a>
+<img src="assets/seccion-juego.svg" alt="Juego principal" width="100%" />
 
 <table>
   <tr>
-    <td width="58%">
-      <a href="https://nahuelbenitezs.github.io/canasta-uy/"><img src="assets/canasta-uy.gif" alt="Demo de Canasta UY" width="100%" /></a>
-    </td>
-    <td width="42%" valign="top">
-      <h3>🛒 Canasta UY</h3>
-      <p><b>¿Dónde sale más barato?</b> Un mapa 3D de Uruguay donde cada columna es un supermercado real. Bajá por la historia de los precios, compará cadenas y armá tu canasta con datos abiertos.</p>
+    <td width="60%"><a href="https://nahuelbenitezs.github.io/turno-noche/"><img src="assets/turno-noche.gif" alt="Demo de Turno Noche" width="100%" /></a></td>
+    <td width="40%" valign="top">
+      <h3>🌙 Turno Noche</h3>
+      <p><b>Se robaron el amanecer.</b> Una repartidora, un panadero, una enfermera y un sereno salen a recuperarlo a las piñas.</p>
       <ul>
-        <li><b>20.223.608</b> precios procesados</li>
-        <li><b>751</b> locales en todo el país</li>
-        <li><b>292</b> productos para comparar</li>
+        <li><b>1 a 4</b> personas, en la misma pantalla u online</li>
+        <li><b>5</b> niveles y <b>5</b> jefes</li>
+        <li>Sin instalar nada: se juega en el navegador</li>
       </ul>
-      <p><a href="https://nahuelbenitezs.github.io/canasta-uy/"><b>Abrir la web</b></a> · <a href="https://github.com/nahuelbenitezs/canasta-uy">Ver el código</a></p>
-      <img src="https://skillicons.dev/icons?i=angular,ts,threejs,python,fastapi&theme=dark" alt="Angular, TypeScript, Three.js, Python y FastAPI" height="36" />
+      <p><a href="https://nahuelbenitezs.github.io/turno-noche/"><b>Jugar ahora</b></a> · <a href="https://github.com/nahuelbenitezs/turno-noche">Código</a></p>
     </td>
   </tr>
 </table>
 
-## Otros proyectos
+<a name="proyectos"></a>
+<img src="assets/seccion-proyectos.svg" alt="Más proyectos" width="100%" />
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <a href="https://nahuelbenitezs.github.io/canasta-uy/"><img src="assets/canasta-uy.gif" alt="Demo de Canasta UY" width="100%" /></a>
+      <h3>🛒 Canasta UY</h3>
+      <p>¿Dónde sale más barato? Un mapa 3D de Uruguay con una columna por supermercado, armado con más de 20 millones de precios de datos abiertos.</p>
+      <p><a href="https://nahuelbenitezs.github.io/canasta-uy/"><b>Abrir</b></a> · <a href="https://github.com/nahuelbenitezs/canasta-uy">Código</a></p>
+    </td>
     <td width="50%" valign="top">
       <a href="https://nahuelbenitezs.github.io/Anime-Clash-3D/"><img src="assets/anime-clash.gif" alt="Demo de Anime Clash 3D" width="100%" /></a>
       <h3>⚡ Anime Clash 3D</h3>
       <p>Peleas en 3D en el navegador, con cuatro luchadores, tres dificultades y salas online para dos. También se juega en el celular con controles táctiles.</p>
       <p><a href="https://nahuelbenitezs.github.io/Anime-Clash-3D/"><b>Jugar</b></a> · <a href="https://github.com/nahuelbenitezs/Anime-Clash-3D">Código</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://nahuelbenitezs.github.io/Proyecto-Obligatorio/"><img src="assets/emercado.gif" alt="Demo de eMercado" width="100%" /></a>
       <h3>🛍️ eMercado</h3>
       <p>E-commerce de demostración con estética de feria uruguaya, fondo WebGL y scroll coreografiado, hecho con Angular y Motion.</p>
       <p><a href="https://nahuelbenitezs.github.io/Proyecto-Obligatorio/"><b>Abrir</b></a> · <a href="https://github.com/nahuelbenitezs/Proyecto-Obligatorio">Código</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://nahuelbenitezs.github.io/valopedia/"><img src="assets/valopedia.gif" alt="Demo de Valopedia" width="100%" /></a>
       <h3>🎯 Valopedia</h3>
       <p>Wiki de VALORANT en español e inglés, con rueda de agentes, habilidades, mapas y armas. Se actualiza sola después de cada parche.</p>
       <p><a href="https://nahuelbenitezs.github.io/valopedia/"><b>Explorar</b></a> · <a href="https://github.com/nahuelbenitezs/valopedia">Código</a></p>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://nahuelbenitezs.github.io/turno-noche/"><img src="assets/turno-noche.gif" alt="Demo de Turno Noche" width="100%" /></a>
-      <h3>🌙 Turno Noche</h3>
-      <p>Beat 'em up 2D cooperativo para hasta 4 personas, en la misma pantalla u online. Cinco niveles y cinco jefes para recuperar el amanecer que se robaron.</p>
-      <p><a href="https://nahuelbenitezs.github.io/turno-noche/"><b>Jugar</b></a> · <a href="https://github.com/nahuelbenitezs/turno-noche">Código</a></p>
-    </td>
   </tr>
 </table>
 
-## Con qué trabajo
-
-<details open>
-<summary>Mi stack por área</summary>
-<br />
+<a name="stack"></a>
+<img src="assets/seccion-stack.svg" alt="Con qué trabajo" width="100%" />
 
 <table>
   <tr>
@@ -91,11 +83,8 @@ Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay.
   </tr>
 </table>
 
-</details>
-
-## En vivo
-
-Esta sección se regenera todos los días con datos públicos de GitHub.
+<a name="vivo"></a>
+<img src="assets/seccion-vivo.svg" alt="En vivo" width="100%" />
 
 <img src="https://raw.githubusercontent.com/nahuelbenitezs/nahuelbenitezs/output/ficha.svg" alt="Ficha con mis datos públicos de GitHub y el último proyecto actualizado" width="100%" />
 
@@ -103,6 +92,4 @@ Esta sección se regenera todos los días con datos públicos de GitHub.
 
 <img src="https://raw.githubusercontent.com/nahuelbenitezs/nahuelbenitezs/output/actividad.svg" alt="Gráfico animado de mis contribuciones públicas del último año" width="100%" />
 
-## Contacto
-
-Escribime por [LinkedIn](https://www.linkedin.com/in/nahuel-ben%C3%ADtezs/) o mirá más en mi [portafolio](https://nahuelbenitezs.github.io/).
+<p align="center"><br />¿Armamos algo? Escribime por <a href="https://www.linkedin.com/in/nahuel-ben%C3%ADtezs/">LinkedIn</a>.</p>

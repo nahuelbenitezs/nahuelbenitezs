@@ -56,9 +56,7 @@ def dibujar(semanas: list[list[dict]]) -> str:
 <style>
 rect{{transform-box:fill-box;transform-origin:center;animation:a .5s cubic-bezier(.16,1,.3,1) both}}
 @keyframes a{{from{{opacity:0;transform:scale(.3)}}}}
-.n0{{fill:#ebedf0}}.n1{{fill:#fff0a8}}.n2{{fill:#ffe15c}}.n3{{fill:#ffd21f}}.n4{{fill:#c9a200}}
-@media (prefers-color-scheme:dark){{
-.n0{{fill:#21262d}}.n1{{fill:#5c4d00}}.n2{{fill:#8f7800}}.n3{{fill:#c9a200}}.n4{{fill:#ffd21f}}}}
+.n0{{fill:#231e52}}.n1{{fill:#6b4f1d}}.n2{{fill:#a8761f}}.n3{{fill:#e09a25}}.n4{{fill:#ffb52e}}
 @media (prefers-reduced-motion:reduce){{rect{{animation:none}}}}
 </style>
 {"".join(celdas)}
