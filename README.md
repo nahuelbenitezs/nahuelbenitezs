@@ -8,7 +8,7 @@
 
 <p align="center"><a href="#juego">Juego</a> · <a href="#proyectos">Proyectos</a> · <a href="#stack">Stack</a> · <a href="#vivo">En vivo</a></p>
 
-Hago cosas para la web que dan ganas de tocar: un juego para romperla con amigos, un mapa 3D con los precios de todo Uruguay, una wiki que se actualiza sola. Me importa tanto el dato que hay atrás como lo que se siente al apretar un botón.
+Hago cosas para la web que dan ganas de tocar: un juego cooperativo para jugar con amigos desde el celular, un comparador de precios que se actualiza solo todos los días y una wiki que sigue cada parche. Me importa tanto el dato que hay atrás como lo que se siente al apretar un botón.
 
 Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay, en Montevideo.
 
@@ -20,11 +20,11 @@ Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay,
     <td width="60%"><a href="https://nahuelbenitezs.github.io/turno-noche/"><img src="assets/turno-noche.gif" alt="Demo de Turno Noche" width="100%" /></a></td>
     <td width="40%" valign="top">
       <h3>🌙 Turno Noche</h3>
-      <p><b>Se robaron el amanecer.</b> Una repartidora, un panadero, una enfermera y un sereno salen a recuperarlo a las piñas.</p>
+      <p><b>Se robaron el sol.</b> Una repartidora, un panadero, una enfermera y un sereno salen a recuperarlo en una campaña arcade con historia, diálogos y jefes.</p>
       <ul>
-        <li><b>1 a 4</b> personas, en la misma pantalla u online</li>
-        <li><b>5</b> niveles y <b>5</b> jefes</li>
-        <li>Sin instalar nada: se juega en el navegador</li>
+        <li><b>1 a 4</b> personas, en la misma pantalla u online con un código de sala</li>
+        <li><b>5</b> misiones y <b>5</b> jefes</li>
+        <li>Teclado, mandos o celular: cada invitado puede jugar desde su teléfono</li>
       </ul>
       <p><a href="https://nahuelbenitezs.github.io/turno-noche/"><b>Jugar ahora</b></a> · <a href="https://github.com/nahuelbenitezs/turno-noche">Código</a></p>
     </td>
@@ -39,7 +39,7 @@ Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay,
     <td width="50%" valign="top">
       <a href="https://nahuelbenitezs.github.io/canasta-uy/"><img src="assets/canasta-uy.gif" alt="Demo de Canasta UY" width="100%" /></a>
       <h3>🛒 Canasta UY</h3>
-      <p>¿Dónde sale más barato? Un mapa 3D de Uruguay con una columna por supermercado, armado con más de 20 millones de precios de datos abiertos.</p>
+      <p>¿Dónde sale más barato? Buscá un producto, compará precios online que se actualizan todos los días y armá tu lista. Incluye un mapa 3D con más de 20 millones de precios oficiales.</p>
       <p><a href="https://nahuelbenitezs.github.io/canasta-uy/"><b>Abrir</b></a> · <a href="https://github.com/nahuelbenitezs/canasta-uy">Código</a></p>
     </td>
     <td width="50%" valign="top">
