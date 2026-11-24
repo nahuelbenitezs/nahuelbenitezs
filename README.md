@@ -45,7 +45,7 @@ Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay,
     <td width="50%" valign="top">
       <a href="https://nahuelbenitezs.github.io/Anime-Clash-3D/"><img src="assets/anime-clash.gif" alt="Demo de Anime Clash 3D" width="100%" /></a>
       <h3>⚡ Anime Clash 3D</h3>
-      <p>Peleas en 3D en el navegador, con cuatro luchadores, tres dificultades y salas online para dos. También se juega en el celular con controles táctiles.</p>
+      <p>Peleas en 3D en el navegador: seis luchadores con su ataque definitivo, tres dificultades contra la CPU y salas online para dos. También se juega en el celular con controles táctiles.</p>
       <p><a href="https://nahuelbenitezs.github.io/Anime-Clash-3D/"><b>Jugar</b></a> · <a href="https://github.com/nahuelbenitezs/Anime-Clash-3D">Código</a></p>
     </td>
   </tr>
