@@ -8,7 +8,7 @@
 
 <p align="center"><a href="#juego">Juego</a> · <a href="#proyectos">Proyectos</a> · <a href="#stack">Stack</a> · <a href="#vivo">En vivo</a></p>
 
-Hago cosas para la web que dan ganas de tocar: un juego cooperativo para jugar con amigos desde el celular, un comparador de precios que se actualiza solo todos los días y una wiki que sigue cada parche. Me importa tanto el dato que hay atrás como lo que se siente al apretar un botón.
+Hago cosas para la web que dan ganas de tocar: dos juegos para jugar con amigos desde el celular (uno cooperativo y otro para engañarlos), un comparador de precios que se actualiza solo todos los días y una wiki que sigue cada parche. Me importa tanto el dato que hay atrás como lo que se siente al apretar un botón.
 
 Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay, en Montevideo.
 
@@ -33,6 +33,22 @@ Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay,
 
 <a name="proyectos"></a>
 <img src="assets/seccion-proyectos.svg" alt="Más proyectos" width="100%" />
+
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <h3>🗯️ Chamuyo</h3>
+      <p><b>El juego de fiesta para engañar a tus amigos.</b> Una pantalla para todos y cada uno juega desde su celular: inventá una mentira creíble, encontrá la verdad y votá la respuesta más graciosa.</p>
+      <ul>
+        <li><b>2 a 8</b> personas, en español o inglés</li>
+        <li><b>12</b> personajes sudamericanos, del carpincho al choripán</li>
+        <li>Sin servidor de juego: los celulares se conectan por WebRTC</li>
+      </ul>
+      <p><a href="https://nahuelbenitezs.github.io/chamuyo/"><b>Jugar ahora</b></a> · <a href="https://github.com/nahuelbenitezs/chamuyo">Código</a></p>
+    </td>
+    <td width="60%"><a href="https://nahuelbenitezs.github.io/chamuyo/"><img src="assets/chamuyo.gif" alt="Demo de Chamuyo" width="100%" /></a></td>
+  </tr>
+</table>
 
 <table>
   <tr>
