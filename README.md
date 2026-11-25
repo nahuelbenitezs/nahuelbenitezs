@@ -9,7 +9,7 @@
 
 <p align="center"><a href="#juego">Juego</a> · <a href="#proyectos">Proyectos</a> · <a href="#stack">Stack</a> · <a href="#vivo">En vivo</a></p>
 
-Hago cosas para la web que dan ganas de tocar. La más nueva es **Chamuyo**, un juego de fiesta para engañar a tus amigos desde el celular. También hice un arcade cooperativo, un comparador de precios que se actualiza solo todos los días y una wiki que sigue cada parche. Me importa tanto el dato que hay atrás como lo que se siente al apretar un botón.
+Hago cosas para la web que dan ganas de tocar. La más nueva es **Chamuyo**, un juego de fiesta para jugar desde el celular donde gana el que mejor chamuya. También hice un arcade cooperativo, un comparador de precios que se actualiza solo todos los días y una wiki que sigue cada parche. Me importa tanto el dato que hay atrás como lo que se siente al apretar un botón.
 
 Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay, en Montevideo.
 
@@ -21,13 +21,13 @@ Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay,
     <td width="60%"><a href="https://nahuelbenitezs.github.io/chamuyo/"><img src="assets/chamuyo.gif" alt="Demo de Chamuyo" width="100%" /></a></td>
     <td width="40%" valign="top">
       <h3>🗯️ Chamuyo</h3>
-      <p><b>El juego de fiesta para engañar a tus amigos.</b> Se abre una sala en la tele y cada uno juega desde su celular: inventá una mentira creíble, encontrá la verdad entre las de los demás y votá la respuesta más graciosa.</p>
+      <p><b>¿Verdad o chamuyo?</b> El juego de fiesta donde gana el que mejor chamuya. Se abre una sala en la tele y cada uno juega desde su celular: inventá una respuesta creíble, encontrá la verdad entre las de los demás y votá la más graciosa.</p>
       <ul>
         <li><b>2 a 8</b> personas, en español o inglés</li>
         <li><b>12</b> personajes sudamericanos, del carpincho al choripán</li>
         <li>Sin cuentas ni servidor de juego: los celulares se conectan por WebRTC</li>
       </ul>
-      <p><a href="https://nahuelbenitezs.github.io/chamuyo/"><b>Jugar ahora</b></a> · <a href="https://github.com/nahuelbenitezs/chamuyo">Código</a></p>
+      <p><a href="https://nahuelbenitezs.github.io/chamuyo/"><b>Jugar ahora</b></a> · <a href="https://github.com/nahuelbenitezs/chamuyo">Código</a> · <a href="https://www.instagram.com/chamuyo.juego/">Instagram</a></p>
     </td>
   </tr>
 </table>
