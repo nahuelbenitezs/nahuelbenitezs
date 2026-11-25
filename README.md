@@ -1,14 +1,15 @@
-<a href="https://nahuelbenitezs.github.io/turno-noche/"><img src="assets/hero.svg" alt="Nahuel Benítez. Juegos, mapas 3D y apps web." width="100%" /></a>
+<a href="https://nahuelbenitezs.github.io/chamuyo/"><img src="assets/hero.svg" alt="Nahuel Benítez. Hago juegos y apps web que dan ganas de tocar." width="100%" /></a>
 
 <p align="center">
-  <a href="https://nahuelbenitezs.github.io/turno-noche/"><img src="https://img.shields.io/badge/Jugar_Turno_Noche-FFB52E?style=for-the-badge&labelColor=120F2E&logoColor=120F2E" alt="Jugar Turno Noche" /></a>
+  <a href="https://nahuelbenitezs.github.io/chamuyo/"><img src="https://img.shields.io/badge/Jugar_Chamuyo-FFD23F?style=for-the-badge&labelColor=131215" alt="Jugar Chamuyo" /></a>
+  <a href="https://nahuelbenitezs.github.io/turno-noche/"><img src="https://img.shields.io/badge/Turno_Noche-120F2E?style=for-the-badge&labelColor=120F2E" alt="Jugar Turno Noche" /></a>
   <a href="https://nahuelbenitezs.github.io/"><img src="https://img.shields.io/badge/Portafolio-120F2E?style=for-the-badge&logo=githubpages&logoColor=FFB52E" alt="Portafolio" /></a>
   <a href="https://www.linkedin.com/in/nahuel-ben%C3%ADtezs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center"><a href="#juego">Juego</a> · <a href="#proyectos">Proyectos</a> · <a href="#stack">Stack</a> · <a href="#vivo">En vivo</a></p>
 
-Hago cosas para la web que dan ganas de tocar: dos juegos para jugar con amigos desde el celular (uno cooperativo y otro para engañarlos), un comparador de precios que se actualiza solo todos los días y una wiki que sigue cada parche. Me importa tanto el dato que hay atrás como lo que se siente al apretar un botón.
+Hago cosas para la web que dan ganas de tocar. La más nueva es **Chamuyo**, un juego de fiesta para engañar a tus amigos desde el celular. También hice un arcade cooperativo, un comparador de precios que se actualiza solo todos los días y una wiki que sigue cada parche. Me importa tanto el dato que hay atrás como lo que se siente al apretar un botón.
 
 Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay, en Montevideo.
 
@@ -17,16 +18,16 @@ Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay,
 
 <table>
   <tr>
-    <td width="60%"><a href="https://nahuelbenitezs.github.io/turno-noche/"><img src="assets/turno-noche.gif" alt="Demo de Turno Noche" width="100%" /></a></td>
+    <td width="60%"><a href="https://nahuelbenitezs.github.io/chamuyo/"><img src="assets/chamuyo.gif" alt="Demo de Chamuyo" width="100%" /></a></td>
     <td width="40%" valign="top">
-      <h3>🌙 Turno Noche</h3>
-      <p><b>Se robaron el sol.</b> Una repartidora, un panadero, una enfermera y un sereno salen a recuperarlo en una campaña arcade con historia, diálogos y jefes.</p>
+      <h3>🗯️ Chamuyo</h3>
+      <p><b>El juego de fiesta para engañar a tus amigos.</b> Se abre una sala en la tele y cada uno juega desde su celular: inventá una mentira creíble, encontrá la verdad entre las de los demás y votá la respuesta más graciosa.</p>
       <ul>
-        <li><b>1 a 4</b> personas, en la misma pantalla u online con un código de sala</li>
-        <li><b>5</b> misiones y <b>5</b> jefes</li>
-        <li>Teclado, mandos o celular: cada invitado puede jugar desde su teléfono</li>
+        <li><b>2 a 8</b> personas, en español o inglés</li>
+        <li><b>12</b> personajes sudamericanos, del carpincho al choripán</li>
+        <li>Sin cuentas ni servidor de juego: los celulares se conectan por WebRTC</li>
       </ul>
-      <p><a href="https://nahuelbenitezs.github.io/turno-noche/"><b>Jugar ahora</b></a> · <a href="https://github.com/nahuelbenitezs/turno-noche">Código</a></p>
+      <p><a href="https://nahuelbenitezs.github.io/chamuyo/"><b>Jugar ahora</b></a> · <a href="https://github.com/nahuelbenitezs/chamuyo">Código</a></p>
     </td>
   </tr>
 </table>
@@ -37,16 +38,16 @@ Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay,
 <table>
   <tr>
     <td width="40%" valign="top">
-      <h3>🗯️ Chamuyo</h3>
-      <p><b>El juego de fiesta para engañar a tus amigos.</b> Una pantalla para todos y cada uno juega desde su celular: inventá una mentira creíble, encontrá la verdad y votá la respuesta más graciosa.</p>
+      <h3>🌙 Turno Noche</h3>
+      <p><b>Se robaron el sol.</b> Una repartidora, un panadero, una enfermera y un sereno salen a recuperarlo en una campaña arcade con historia, diálogos y jefes.</p>
       <ul>
-        <li><b>2 a 8</b> personas, en español o inglés</li>
-        <li><b>12</b> personajes sudamericanos, del carpincho al choripán</li>
-        <li>Sin servidor de juego: los celulares se conectan por WebRTC</li>
+        <li><b>1 a 4</b> personas, en la misma pantalla u online con un código de sala</li>
+        <li><b>5</b> misiones y <b>5</b> jefes</li>
+        <li>Teclado, mandos o celular: cada invitado puede jugar desde su teléfono</li>
       </ul>
-      <p><a href="https://nahuelbenitezs.github.io/chamuyo/"><b>Jugar ahora</b></a> · <a href="https://github.com/nahuelbenitezs/chamuyo">Código</a></p>
+      <p><a href="https://nahuelbenitezs.github.io/turno-noche/"><b>Jugar ahora</b></a> · <a href="https://github.com/nahuelbenitezs/turno-noche">Código</a></p>
     </td>
-    <td width="60%"><a href="https://nahuelbenitezs.github.io/chamuyo/"><img src="assets/chamuyo.gif" alt="Demo de Chamuyo" width="100%" /></a></td>
+    <td width="60%"><a href="https://nahuelbenitezs.github.io/turno-noche/"><img src="assets/turno-noche.gif" alt="Demo de Turno Noche" width="100%" /></a></td>
   </tr>
 </table>
 
