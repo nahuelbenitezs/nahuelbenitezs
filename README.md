@@ -24,7 +24,7 @@ Estudio **Ingeniería en Informática** en la Universidad Católica del Uruguay,
       <p><b>¿Verdad o chamuyo?</b> El juego de fiesta donde gana el que mejor chamuya. Se abre una sala en la tele y cada uno juega desde su celular: inventá una respuesta creíble, encontrá la verdad entre las de los demás y votá la más graciosa.</p>
       <ul>
         <li><b>2 a 8</b> personas, en español o inglés</li>
-        <li><b>12</b> personajes sudamericanos, del carpincho al choripán</li>
+        <li><b>18</b> personajes latinoamericanos, del carpincho al taco</li>
         <li>Sin cuentas ni servidor de juego: los celulares se conectan por WebRTC</li>
       </ul>
       <p><a href="https://nahuelbenitezs.github.io/chamuyo/"><b>Jugar ahora</b></a> · <a href="https://github.com/nahuelbenitezs/chamuyo">Código</a> · <a href="https://www.instagram.com/chamuyo.juego/">Instagram</a></p>
