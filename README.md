@@ -1,4 +1,4 @@
-<a href="https://nahuelbenitezs.github.io/chamuyo/"><img src="assets/hero.svg" alt="Nahuel Benítez. Hago juegos y apps web que dan ganas de tocar." width="100%" /></a>
+<a href="https://nahuelbenitezs.github.io/chamuyo/"><img src="assets/hero-chamuyo.svg" alt="Nahuel Benítez. Hago juegos y apps web que dan ganas de tocar." width="100%" /></a>
 
 <p align="center">
   <a href="https://nahuelbenitezs.github.io/chamuyo/"><img src="https://img.shields.io/badge/Jugar_Chamuyo-FFD23F?style=for-the-badge&labelColor=131215" alt="Jugar Chamuyo" /></a>
